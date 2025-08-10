@@ -58,15 +58,15 @@ An **interactive data analysis web app** built with [Streamlit](https://streamli
 ---
 
 
-## 📷 Example Output
+##  Example Output
 ![App Output](images/output.jpeg)
 
-## 📌 Notes
+##  Notes
 - Ensure `casualties_daily.csv` is in the same folder as `app.py`.
 - CSV must be comma-separated.
 - Large files may load slower.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
