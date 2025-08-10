@@ -1,10 +1,10 @@
-# 📊 Casualties Daily Data Analysis
+#  Casualties Daily Data Analysis
 
 An **interactive data analysis web app** built with [Streamlit](https://streamlit.io/) and [Plotly](https://plotly.com/python/) for exploring and visualizing **daily casualties data**.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Data Preview** — View the first rows of your dataset.
 - **Interactive Visualizations** — Choose:
   - X-axis and Y-axis columns.
@@ -14,7 +14,7 @@ An **interactive data analysis web app** built with [Streamlit](https://streamli
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**
 - **[Streamlit](https://streamlit.io/)**
 - **[Pandas](https://pandas.pydata.org/)**
@@ -22,7 +22,7 @@ An **interactive data analysis web app** built with [Streamlit](https://streamli
 
 ---
 
-## 📂 Project Files
+##  Project Files
 ```
 ├── app.py               # Main application script
 ├── casualties_daily.csv # Dataset (place in same directory)
@@ -31,7 +31,7 @@ An **interactive data analysis web app** built with [Streamlit](https://streamli
 
 ---
 
-## ▶️ Running Locally
+##  Running Locally
 
 1. **Clone this repository**:
    ```bash
