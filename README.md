@@ -59,7 +59,7 @@ An **interactive data analysis web app** built with [Streamlit](https://streamli
 
 
 ## 📷 Example Output
-![App Output](Screenshot_10-8-2025_214959_data.techforpalestine.org.jpeg)
+![App Output](images/output.jpeg)
 
 ## 📌 Notes
 - Ensure `casualties_daily.csv` is in the same folder as `app.py`.
